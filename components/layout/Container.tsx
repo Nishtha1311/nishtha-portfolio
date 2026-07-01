@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://your-portfolio.vercel.app"),
+  metadataBase: new URL("https://your-portfolio-domain.vercel.app"),
 
   title: {
     default: "Nishtha Portfolio",
